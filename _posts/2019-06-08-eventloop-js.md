@@ -4,7 +4,7 @@ title: "JS 이벤트루프란 무엇인가?"
 #   video:
 #     id: 8aGhZQkoFbQ
 #     provider: youtube
-date: 2019-06-08 17:21:28
+date: 2019-06-08 20:21:28
 categories: EventLoop JavaScript
 ---
 
@@ -13,7 +13,6 @@ categories: EventLoop JavaScript
 {% raw %}{% include video id="8aGhZQkoFbQ" provider="youtube" %}{% endraw %}
 ```
 
-{% include video id="8aGhZQkoFbQ" provider="youtube" %}
 
 세줄요약
 1. 이벤트루프EventLoop(와 Web API, AJAX, DOM, 콜백큐 등)는 JS Runtime의 일부가 아니다. 이들은 Browser(nodejs에서는 libuv)가 제공해주는 것이다.
