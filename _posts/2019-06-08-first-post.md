@@ -5,3 +5,10 @@ categories: jekyll update
 ---
 
 First one
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
