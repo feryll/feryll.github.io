@@ -1,10 +1,11 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Test post"
 date: 2019-06-08 17:21:28
 categories: jekyll update
 ---
 
-First one
+Does it work?
+
 ```mermaid
 graph TD;
     A-->B;
