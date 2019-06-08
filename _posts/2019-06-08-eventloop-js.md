@@ -1,9 +1,5 @@
 ---
 title: "JS 이벤트루프란 무엇인가?"
-# header:
-#   video:
-#     id: 8aGhZQkoFbQ
-#     provider: youtube
 date: 2019-06-08 20:21:28
 categories: EventLoop JavaScript
 ---
