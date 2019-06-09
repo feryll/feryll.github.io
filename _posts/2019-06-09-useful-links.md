@@ -11,11 +11,12 @@ tags:
 
 [DB 관련 정리(cap 이론 등)](https://sjh836.tistory.com/97)
 
+백엔드 인터뷰 질문. 점검해보면서 공부하면 좋을 듯<br>
+[질문 목록1](https://github.com/arialdomartini/)
+[질문 목록2](Back-End-Developer-Interview-Questions#databases)
+[질문 목록3](https://github.com/tvandame/back-end-developer-interview-questions)
+[질문 목록4](https://github.com/starandtina/backend-interview-questions)
 
-https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#databases
-https://github.com/tvandame/back-end-developer-interview-questions
-https://github.com/starandtina/backend-interview-questions
-<br>백엔드 인터뷰 질문
 
 [좋은 인터뷰 질문들 - 분야별 정리](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
