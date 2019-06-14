@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Choi Byung Hyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Developer.\nPlease email me, if you want to contact me"
+  bio              : "Software Developer.<br>Please email me, if you want to contact me"
   location         : "South Korea"
   email            : joshua.feryll@gmail.com
   links:
