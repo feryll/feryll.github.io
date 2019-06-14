@@ -2,8 +2,6 @@
 title: "2019 6월 유용한 링크1"
 date: 2019-06-09 00:37:51
 categories: Archive
-tags:
-- Archive
 ---
 
 [vs code 소개글. 좋은 확장 저장용](http://sculove.github.io/blog/2018/11/28/to-vscode-in-2019/)

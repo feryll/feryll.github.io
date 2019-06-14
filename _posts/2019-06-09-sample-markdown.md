@@ -2,8 +2,6 @@
 title: "sample markdown"
 date: 2019-05-30 00:20:15
 categories: markdown
-tags:
-- markdown
 ---
 
 

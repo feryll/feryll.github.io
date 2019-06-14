@@ -2,9 +2,6 @@
 title: "python: how to handle json not serializable error"
 date: 2019-06-14 20:55:19
 categories: python json
-tags:
-- python 
-- json
 ---
 
 While using json.dumps() or flask's jsonify to make something into json format, you may face the following error.
