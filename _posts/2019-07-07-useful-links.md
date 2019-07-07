@@ -6,6 +6,8 @@ categories: Archive
 
 Rails Guide Links
 
+[Getting Started with Rails](https://guides.rubyonrails.org/v5.2/getting_started.html)
+
 [Rails Security](https://guides.rubyonrails.org/v5.2/security.html)
 
 [Active Record Associations](https://guides.rubyonrails.org/v5.2/association_basics.html)
